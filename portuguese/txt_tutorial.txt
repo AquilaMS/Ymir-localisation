@@ -1,20 +1,20 @@
 #tuto_launch_1
-Welcome to Ymir! It looks like it's the first time you're launching this game. 
-
+Bem vindo a Ymir! Parece que é a primeira vez que você está abrindo o jogo.
+ 
 #tuto_launch_2
-This is a complex game: if you're not familiar with it yet, it's strongly advised to start by completing the beginner's tutorial in a solo game to learn the basics. Howerver if you already know the game, you can choose to disable all tutorials right now.
+Esse é um jogo complexo: se você ainda não está familiarizado com isso, é extremamente recomendado completar o tutorial do iniciante em um jogo solo para aprender o básico. Porém, se você já conhece o jogo, você pode escolher desabilitar todos os tutoriais agora.
 
 #tuto_create_1
-This is where you setup and start a new game. There is 2 main game modes: persistent and realtime. If you're playing alone or with a few friends, its best to leave it to 'realtime'.
+Aqui é onde você configura e inicia um novo jogo. Existe 2 modos de jogo principais: persistente e tempo real. Se você joga sozinho ou com alguns amigos, é melhor deixar isso em 'tempo real'.
 
 #tuto_lnchgame_1
 You are starting your first own game! This is a client-server game: even if you are playing solo, starting a new game will auto-launch a separated server and auto-connect you to it. For others to be able to join this game, you MUST make sure to forward the port used by your server properly (14804 by default). If the server auto-launch fails, you will have to manually start the server from the game folder using server.bat, and then connect to it with "join game".
 
-#tuto_char_1
-This is where you create your character. You can design and name it, as well as your government's name and flag. 
+#tuto_char_1 
+Aqui é onde você cria seu próprio personagem. Você pode dar estilo e um nome a ele como também ao seu governo e bandeira.
 
 #tuto_char_2
-You have to choose among a list of different starting types, the default one for a new game being the "primitive tribe".
+Você deve escolher entre uma lista de diferentes tipos de inicio, o padrão para um novo jogo é começar como "tribo primitiva".
 
 #tuto_char_3
 In multiplayer, you may as well specify the name of a friend's character to spawn as close to him as possibe but to do so you will need his 'Invite code' as well.
